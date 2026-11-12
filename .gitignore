@@ -1,0 +1,15 @@
+#Virtual Environment
+.venv/
+__pycache__/
+*.pyc
+
+# Database & Uplaoded Data
+*.db
+*.sqlite3
+storage/
+uploads/
+
+#Environment Variables & Secrets
+.env
+*.pem
+*.key
